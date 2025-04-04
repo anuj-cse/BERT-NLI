@@ -1,4 +1,4 @@
-name: IBMTS
+name: NLI
 channels:
   - conda-forge
   - defaults
@@ -292,4 +292,4 @@ dependencies:
       - xgboost==2.1.3
       - xxhash==3.5.0
       - yarl==1.18.3
-prefix: /home/user/miniconda3/envs/IBMTS
+prefix: /home/user/miniconda3/envs/NLI
