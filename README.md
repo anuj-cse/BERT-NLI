@@ -28,9 +28,9 @@ Extracted raw sentence: two women are embracing while holding to go packages .
 ```
     
 
-Entailment: The second sentence follows logically from the first.
-Contradiction: The second sentence contradicts the first.
-Neutral: The second sentence neither entails nor contradicts the first.
+Entailment: The second sentence follows logically from the first.<br>
+Contradiction: The second sentence contradicts the first.<br>
+Neutral: The second sentence neither entails nor contradicts the first.<br>
 
 The dataset is used to train, evaluate and test a BERT-based model for Natural Language Inference. Dataset is valanced alonged all the classes.
 Dataset Format is:
